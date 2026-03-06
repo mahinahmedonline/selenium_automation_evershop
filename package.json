@@ -1,0 +1,16 @@
+{
+  "name": "selenium-webdriver",
+  "version": "1.0.0",
+  "description": "selenium webdriver automation testing",
+  "license": "ISC",
+  "author": "mahin_ahmed",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chai": "^6.2.2",
+    "selenium-webdriver": "^4.41.0"
+  }
+}
